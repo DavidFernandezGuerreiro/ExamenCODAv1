@@ -3,7 +3,7 @@ package excod1av;
 
 /**
  *
- * @author damian
+ * @author david
  */
 public class ExCOD1Av {
 
