@@ -14,6 +14,7 @@ public class ExCOD1Av {
         System.out.println("COMMIT A");
         System.out.println("COMMIT B");
         System.out.println("COMMIT E");
+        System.out.println("COMMIT F");
     }
     
 }
